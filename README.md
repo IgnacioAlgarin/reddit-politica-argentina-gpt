@@ -1,4 +1,4 @@
-# 🗳️ Análisis de temas políticos en Reddit Argentina (2023)
+# ¿Cómo se habla de política en Reddit Argentina? Un análisis con Python y GPT 
 
 Este proyecto analiza el contenido del subreddit r/argentina en torno a las elecciones presidenciales de 2023. Se recolectaron publicaciones reales, se clasificaron automáticamente usando la API de ChatGPT y se visualizó la evolución semanal de menciones a Javier Milei.
 
