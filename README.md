@@ -1,6 +1,6 @@
 # ¿Cómo se habla de política en Reddit Argentina? Un análisis con Python y GPT 
 
-Este proyecto analiza el contenido del subreddit r/argentina recolectandos 2000 publicaciones de las mas populares. Se recolectaron publicaciones reales, se clasificaron automáticamente usando la API de ChatGPT y se visualizó la evolución semanal de menciones a Javier Milei.
+Este proyecto analiza el contenido del subreddit r/argentina scrapeando 2000 posteos de los mas populares. Se recolectaron publicaciones reales, se clasificaron automáticamente usando la API de ChatGPT y se visualizó la evolución semanal de menciones a Javier Milei.
 
 ---
 
